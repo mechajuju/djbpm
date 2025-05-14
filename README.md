@@ -3,7 +3,8 @@
 DJBPM is a tool for DJs - it simplifies 3/4 loop transitions from a slower bpm to a faster bpm.  
 This can be useful if you are transitioning from one genre to another (*e.g. from House to Drum and Bass*)
 
-If you'd like to know how to perform the 3/4 loop transition technique, please reference this [Youtube video by DJ Carlo.](https://youtu.be/UUyqNDDdNn0)
+If you'd like to know how to perform the 3/4 loop transition technique,  
+please reference this [Youtube video by DJ Carlo.](https://youtu.be/UUyqNDDdNn0)
 
 ## Installation
 
