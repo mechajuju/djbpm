@@ -69,7 +69,8 @@ You will get two outputs: a Start/Loop BPM and an End BPM.
 3. Look only at End BPM - the result is 173.33
 4. In this case, you are transitioning from a track at 130 BPM to another track at 173.33 BPM. 
 
-I opted to display two decimal places for those that prefer to be hyper-precise, but feel free to round (*i.e. 173 BPM instead of 173.33 BPM*)
+I opted to display two decimal places for those that prefer to be hyper-precise,  
+but feel free to round (*i.e. 173 BPM instead of 173.33 BPM*)
 
 
 ## Contributing
