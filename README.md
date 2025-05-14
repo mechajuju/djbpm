@@ -11,7 +11,8 @@ DJBPM is a portable application, meaning you do not need to install anything.
 
 Simply transfer the DJBPM.exe file to any Windows PC and run it to access the tool. 
 
-If you'd prefer not to run an EXE file (or if you are not on Windows), install Python on your machine and run DJBPM.py instead.  
+If you'd prefer not to run an EXE file (or if you are not on Windows),  
+install Python on your machine and run DJBPM.py instead.  
 (I plan to make an executable for OS X available in the future, but currently I do not have access to a Mac.)
 ##
 **Python 3 installation guide - only needed if you are not on Windows or prefer not to run the EXE file**
