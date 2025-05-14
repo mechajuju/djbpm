@@ -52,7 +52,7 @@ For more details and best practices, see this Gist - [Set up a Python 3 virtual 
 
 
 ## Usage
-![Screenshot of DJBPM tool](https://i.imgur.com/zsa02l8.png)
+![Screenshot of DJBPM tool](https://i.imgur.com/zsa02l8.png)  
 Referencing the screenshot above, you will enter your current BPM in the 'Known BPM' box.   
 You will get two outputs: a Start/Loop BPM and an End BPM.
 
